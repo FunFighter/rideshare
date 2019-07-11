@@ -12,3 +12,6 @@ information that can be somehow easily analyzed and plotted with either leaflet,
 The source:
 https://data.world/andytryba/rideaustin
 
+
+Note:  In this team project, we completed two other visualizations using D3/js where a different data set was used due to that we experienced a great challenge when attempting to plot with D3/js the initial data set (rideshare) that we had in mind.    
+
