@@ -147,7 +147,7 @@ def barData():
 
 #------------ aritra ------------------
 @app.route('/aritra')
-def arirta():
+def aritra():
     def db_query():
         db = Database()
         emps = db.rideshare_aritra()
